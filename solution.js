@@ -1,4 +1,4 @@
-Given the head of a singly linked list, return the middle node of the linked list.
+// Given the head of a singly linked list, return the middle node of the linked list.
 
 var middleNode = function(head) {
      let slow = head;
